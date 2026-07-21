@@ -6,5 +6,8 @@ int main(){
 
     //Added by arik
     cout<<"Hello World by Arik"<<endl;
+
+    //Added by anonny
+    cout<<"Hello World by Anonnoy"<<endl;
     return 0;
 }
